@@ -1,4 +1,4 @@
-#The idea of statistical significance explained simply
+# The idea of statistical significance explained simply
 
 Once upon a time, in a land where sports events were taken very seriously, there was a young statistician named Alex who was tasked with ensuring the fairness of a coin used in a prominent sporting event. The organizers had received a complaint suggesting that the coin might be biased, favoring one side over the other. Alex knew that this could potentially undermine the integrity of the event, and so she set out to investigate the matter scientifically. In a scientific approach to test the fairness of a coin, Alex followed these steps and explanations:
 
